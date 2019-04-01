@@ -1,6 +1,6 @@
 FROM alpine
-LABEL author: Juan Sanchez
-LABEL email: juanma0012@gmail.com
+LABEL author: Marisol Giraldo
+LABEL email: marisol.giraldo@correo.icesi.edu.co
 
 
 # basic flask environment
